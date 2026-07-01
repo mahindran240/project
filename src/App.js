@@ -90,9 +90,6 @@ function App() {
       <h3>{message}</h3>
       </div>
     </div>
-    <div>
-      <h1>github</h1>
-    </div>
     </div>
   );
 }
