@@ -46,9 +46,9 @@ function App() {
 
 
       <div class="div1">
-      <h1 class="main">UseEffict</h1>
+      <h1 class="main">UseEffect</h1>
       <input type='text' placeholder='Enter your name' onChange={(e) => setStore(e.target.value)} />
-      <button onClick={() => setAlert(Store)}>Alart</button>
+      <button onClick={() => setAlert(Store)}>Alert</button>
       <br></br>
       </div>
 
